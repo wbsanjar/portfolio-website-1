@@ -1,5 +1,5 @@
 # portfolio-website-1
-![Logo](cp.png)
+![Logo](portfolio.png)
 
 # Portfolio Showcase 💻
 
