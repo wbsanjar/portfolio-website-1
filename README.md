@@ -1,5 +1,5 @@
 # portfolio-website-1
-![Logo](portfolio.png)
+![Logo](047862c3-44d4-44ad-933f-5c91d65b4dfa.tmp)
 
 # Portfolio Showcase 💻
 
