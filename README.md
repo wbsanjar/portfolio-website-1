@@ -11,7 +11,7 @@ It is fully **responsive**, interactive, and visually appealing across desktop, 
 
 ## Live Demo 🚀
 
-You can view the live website here: [Live Demo](https://stalwart-baklava-8ed433.netlify.app/)
+You can view the live website here: [Live Demo]()
 
 ---
 
@@ -64,7 +64,7 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 - Email: mdsanjar631@gmail.com  
 - Location: Bhopal, India 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sanjar-nawaz-062b14328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- GitHub: [GitHub](https://github.com/Sab)  
+- GitHub: [GitHub](https://github.com/wbsanjar)  
 - Instagram: [Instagram](https://www.instagram.com/w3.sanjar/)
 
 ---
