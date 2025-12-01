@@ -42,8 +42,6 @@ You can view the live website here: [Live Demo]()
 - **HTML5** – Structure and semantic content  
 - **CSS3** – Styling, responsive layouts, Flexbox & Grid  
 - **JavaScript (Vanilla JS)** – Interactivity and animations  
-- **Font Awesome / Boxicons** – Icons  
-- **AOS.js** – Scroll animations  
 
 ---
 
